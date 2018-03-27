@@ -1,0 +1,32 @@
+nav{
+    height: 100px;
+    text-align: center;
+    background-color: #ffffff;
+    margin-bottom: 5px;
+
+
+}
+
+nav li{
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 15px;
+    margin-top: 7px;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #ad3342;
+}
+
+a:hover{
+ color: #fdfeff;
+}
+
+
